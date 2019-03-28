@@ -26,3 +26,4 @@ fields:
       format: html
   hidden: false
   default: ''
+  description: Content to display in site footer
