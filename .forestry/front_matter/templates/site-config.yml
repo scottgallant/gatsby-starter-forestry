@@ -18,12 +18,12 @@ fields:
   hidden: false
   default: ''
 - name: footer
-  label: Footer
   type: textarea
+  default: ''
   config:
+    required: false
     wysiwyg: true
     schema:
       format: html
-  hidden: false
-  default: ''
+  label: Footer
   description: Content to display in site footer
