@@ -10,4 +10,3 @@ One of Gatsby's biggest strengths is its ability to ingest data from multiple so
 
 - [GatsbyJS Documentation](https://www.gatsbyjs.org/docs/)
 - [Gatsby Developer Guide on Forestry.io](https://forestry.io/docs/guides/developing-with-gatsby/)
-
